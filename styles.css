@@ -65,9 +65,11 @@ body {
 }
 
 footer{
+  position: absolute;
+  top: 110%;
+  width: 100%;
   background-color: #FEF2BF;
   text-align: center;
-  margin-top: 25px;
   padding: 8px;
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.8em;
