@@ -1,15 +1,10 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 500px) {
-  .btn{
-    width: 100px;
-    height: 100px;
-  }
-}
-
 body {
   text-align: center;
   background-color: #011F3F;
+  height: 97vh;
+  width: 98.41vw;
 }
 
 #level-title {
