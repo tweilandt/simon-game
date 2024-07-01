@@ -18,6 +18,8 @@ body {
   display: flex;
   flex-flow: column nowrap;
   flex: 0 1 200px;
+  justify-content: center;
+  align-items: center;
   margin: auto;
 
 }

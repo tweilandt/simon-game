@@ -10,6 +10,14 @@
     border-radius: 20%;
   }
 
+  .container{
+    margin-top: 20%;
+  }
+
+  footer{
+    padding: 1em;
+  }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -20,5 +28,10 @@
     width: 150px;
     border: 6px solid black;
     border-radius: 20%;
+  }
+
+  
+  .container{
+    margin-top: 20%;
   }
 }
